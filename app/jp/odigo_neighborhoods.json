@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Tokyo",
+    "id": "535e0da669702d70c9000000"
+  },
+  {
+    "name": "Yokohama",
+    "id": "535eec7469702d740b150000"
+  },
+  {
+    "name": "Kyoto",
+    "id": "5361e2f269702d5ec2760000"
+  },
+  {
+    "name": "Tochigi",
+    "id": "545f10fa69702d5dde3e0000"
+  },
+  {
+    "name": "Okinawa",
+    "id": "5476153a69702d6dea160000"
+  },
+  {
+    "name": "Osaka",
+    "id": "54d0101269702d2c97480100"
+  },
+  {
+    "name": "Hokkaido",
+    "id": "54d04c1169702d2c97680100"
+  },
+  {
+    "name": "Kobe",
+    "id": "5504e8d169702d0dd92c0000"
+  },
+  {
+    "name": "Hakone",
+    "id": "552e072e69702d29d0e40400"
+  },
+  {
+    "name": "Nara",
+    "id": "5575849f69702d090a330100"
+  },
+  {
+    "name": "Iwate",
+    "id": "5579477b69702d0b8a660000"
+  },
+  {
+    "name": "Nagasaki",
+    "id": "559622ea69702d7cac720000"
+  },
+  {
+    "name": "Kamakura",
+    "id": "559a140469702d65f9e70200"
+  },
+  {
+    "name": "Chiba",
+    "id": "559b91d569702d0981880000"
+  },
+  {
+    "name": "Kanagawa",
+    "id": "559ce40569702d0981210100"
+  },
+  {
+    "name": "Akita",
+    "id": "559e218069702d6bd50e0000"
+  },
+  {
+    "name": "Aomori",
+    "id": "55a776a869702d5b8a3a0200"
+  },
+  {
+    "name": "Gifu",
+    "id": "55a8858069702d4a58800000"
+  },
+  {
+    "name": "Miyazaki",
+    "id": "55a88f0769702d69467b0000"
+  },
+  {
+    "name": "Yamagata",
+    "id": "55a89e9069702d4a58b40000"
+  },
+  {
+    "name": "Hiroshima",
+    "id": "55ab05a569702d698c1d0000"
+  },
+  {
+    "name": "Saitama",
+    "id": "55ac789c69702d698cf90000"
+  },
+  {
+    "name": "Gunma",
+    "id": "55ac901469702d51a8140100"
+  },
+  {
+    "name": "Fukushima",
+    "id": "55b47bcb69702d5384760000"
+  },
+  {
+    "name": "Miyagi",
+    "id": "55b4c4ea69702d5384da0000"
+  },
+  {
+    "name": "Niigata",
+    "id": "55d2ec1469702d17b76e0200"
+  }
+]

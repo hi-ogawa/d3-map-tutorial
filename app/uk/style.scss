@@ -1,0 +1,27 @@
+svg.uk {
+    background-color: oldlace;
+
+    .subunit {
+        &.ENG{ fill: aquamarine; }
+        &.IRL{ fill: yellowgreen; }
+        &.NIR{ fill: pink; }
+        &.SCT{ fill: orange; }
+        &.WLS{ fill: turquoise; }
+
+        stroke: red;
+        stroke-width: 0.3;
+    }
+
+
+    .subunit-label {
+        fill: #777;
+        fill-opacity: .5;
+        font-size: 20px;
+        font-weight: 300;
+        text-anchor: middle;
+    }
+
+    .place-label {
+        font-size: .7em;
+    }
+}

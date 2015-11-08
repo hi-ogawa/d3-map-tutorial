@@ -1,0 +1,44 @@
+/* http://www.w3schools.com/cssref/css_colornames.asp */
+svg.jp {
+     background-color: ghostwhite;
+
+     .state {
+         cursor: pointer;
+
+         stroke: coral;
+         stroke-width: 0.3;
+
+         &[data-region-name=hokkaido] {
+             fill: Moccasin;
+         }
+         &[data-region-name=tohoku] {
+             fill: LightPink;
+         }
+         &[data-region-name=kanto] {
+             fill: Plum;
+         }
+         &[data-region-name=chubu] {
+             fill: LightBlue;
+         }
+         &[data-region-name=kinki] {
+             fill: LightGoldenRodYellow;
+         }
+         &[data-region-name=chugoku] {
+             fill: MediumPurple;
+         }
+         &[data-region-name=shikoku] {
+             fill: DarkTurquoise;
+         }
+         &[data-region-name=kyushu] {
+             fill: PaleGoldenRod;
+         }
+
+         &[data-name=tokyo] {
+             fill: blue;
+         }
+
+         &:hover {
+             fill: tomato;
+         }
+   }
+}

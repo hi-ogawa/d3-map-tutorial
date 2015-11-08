@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "sr_sov_a3": "GB1", "sr_adm0_a3": "GBR", "sr_gu_a3": "SCT", "sr_su_a3": "SCT", "sr_subunit": "Scotland", "sr_brk_a3": "SCX", "sr_br_name": null, "scalerank": 0, "featurecla": "Admin-0 scale ranks" }, "geometry": { "type": "Point", "coordinates": [ -4.012183144536323, 56.68592159550542 ] } },
+{ "type": "Feature", "properties": { "sr_sov_a3": "GB1", "sr_adm0_a3": "GBR", "sr_gu_a3": "NIR", "sr_su_a3": "NIR", "sr_subunit": "N. Ireland", "sr_brk_a3": "NIR", "sr_br_name": null, "scalerank": 0, "featurecla": "Admin-0 scale ranks" }, "geometry": { "type": "Point", "coordinates": [ -6.694093563067327, 54.608054501614106 ] } },
+{ "type": "Feature", "properties": { "sr_sov_a3": "GB1", "sr_adm0_a3": "GBR", "sr_gu_a3": "WLS", "sr_su_a3": "WLS", "sr_subunit": "Wales", "sr_brk_a3": "WLS", "sr_br_name": null, "scalerank": 0, "featurecla": "Admin-0 scale ranks" }, "geometry": { "type": "Point", "coordinates": [ -3.734580307435067, 52.304901965153761 ] } },
+{ "type": "Feature", "properties": { "sr_sov_a3": "GB1", "sr_adm0_a3": "GBR", "sr_gu_a3": "ENG", "sr_su_a3": "ENG", "sr_subunit": "England", "sr_brk_a3": "ENG", "sr_br_name": null, "scalerank": 0, "featurecla": "Admin-0 scale ranks" }, "geometry": { "type": "Point", "coordinates": [ -1.460467598400783, 52.601885382104854 ] } },
+{ "type": "Feature", "properties": { "sr_sov_a3": "IRL", "sr_adm0_a3": "IRL", "sr_gu_a3": "IRL", "sr_su_a3": "IRL", "sr_subunit": "Ireland", "sr_brk_a3": "IRL", "sr_br_name": null, "scalerank": 0, "featurecla": "Admin-0 scale ranks" }, "geometry": { "type": "Point", "coordinates": [ -8.138264403779033, 53.176692342377862 ] } }
+]
+}
