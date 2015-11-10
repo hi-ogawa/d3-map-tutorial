@@ -51,8 +51,8 @@ export function render(svg){
         .append("text")
         .attr("class", "place-label")
         .attr("dy", ".23em")
-        .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
-        .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; })
+        .attr("x", (d) => d.geometry.coordinates[0] > -1 ? 6 : -6)
+        .style("text-anchor", (d) => d.geometry.coordinates[0] > -1 ? "start" : "end")
         .attr("transform", (d) => `translate(${projection(d.geometry.coordinates)})`)
         .text((d) => d.properties.NAME);
 }
