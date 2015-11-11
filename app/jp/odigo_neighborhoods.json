@@ -4,10 +4,6 @@
     "id": "535e0da669702d70c9000000"
   },
   {
-    "name": "Yokohama",
-    "id": "535eec7469702d740b150000"
-  },
-  {
     "name": "Kyoto",
     "id": "5361e2f269702d5ec2760000"
   },
@@ -28,14 +24,6 @@
     "id": "54d04c1169702d2c97680100"
   },
   {
-    "name": "Kobe",
-    "id": "5504e8d169702d0dd92c0000"
-  },
-  {
-    "name": "Hakone",
-    "id": "552e072e69702d29d0e40400"
-  },
-  {
     "name": "Nara",
     "id": "5575849f69702d090a330100"
   },
@@ -46,10 +34,6 @@
   {
     "name": "Nagasaki",
     "id": "559622ea69702d7cac720000"
-  },
-  {
-    "name": "Kamakura",
-    "id": "559a140469702d65f9e70200"
   },
   {
     "name": "Chiba",
@@ -102,5 +86,105 @@
   {
     "name": "Niigata",
     "id": "55d2ec1469702d17b76e0200"
+  },
+  {
+    "name": "Ibaraki",
+    "id": "5608e13069702d718b560400"
+  },
+  {
+    "name": "Toyama",
+    "id": "5608fc7669702d45b3b70400"
+  },
+  {
+    "name": "Fukui",
+    "id": "560b9f1569702d52d6390000"
+  },
+  {
+    "name": "Yamanashi",
+    "id": "560c6d2a69702d65b34c0000"
+  },
+  {
+    "name": "Hyogo",
+    "id": "560ce5af69702d0b09820000"
+  },
+  {
+    "name": "Shiga",
+    "id": "5612407569702d0b09040400"
+  },
+  {
+    "name": "Mie",
+    "id": "5612494869702d65b3de0300"
+  },
+  {
+    "name": "Aichi",
+    "id": "561250e269702d65b3e20300"
+  },
+  {
+    "name": "Ishikawa",
+    "id": "5613737569702d0b09e00400"
+  },
+  {
+    "name": "Fukuoka",
+    "id": "56137a0169702d0b09f30400"
+  },
+  {
+    "name": "Kagawa",
+    "id": "56160d2669702d7171220000"
+  },
+  {
+    "name": "Shizuoka",
+    "id": "561613a369702d71712c0000"
+  },
+  {
+    "name": "Wakayama",
+    "id": "56161ad669702d7171310000"
+  },
+  {
+    "name": "Tottori",
+    "id": "5616497b69702d1c647d0000"
+  },
+  {
+    "name": "Ehime",
+    "id": "56165b0269702d1c648f0000"
+  },
+  {
+    "name": "Okayama",
+    "id": "5616743569702d1c64ac0000"
+  },
+  {
+    "name": "Shimane",
+    "id": "56187cb569702d69bf230000"
+  },
+  {
+    "name": "Nagano",
+    "id": "5618bc4669702d69bf4b0000"
+  },
+  {
+    "name": "Yamaguchi",
+    "id": "5618d0ec69702d119c830000"
+  },
+  {
+    "name": "Saga",
+    "id": "5619b7c869702d69bfea0000"
+  },
+  {
+    "name": "Oita",
+    "id": "5619eafb69702d69bf330100"
+  },
+  {
+    "name": "Kumamoto",
+    "id": "561a0aa469702d119c980100"
+  },
+  {
+    "name": "Kochi",
+    "id": "561b0d1f69702d119c6f0200"
+  },
+  {
+    "name": "Tokushima",
+    "id": "561b46a969702d119c280300"
+  },
+  {
+    "name": "Kagoshima",
+    "id": "561b607669702d69bf630300"
   }
 ]
