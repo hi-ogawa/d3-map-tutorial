@@ -28,5 +28,6 @@ $ ogr2ogr -f GeoJSON -where "SR_ADM0_A3 IN ('GBR', 'IRL') AND scalerank = 0" sub
 #   - manually fixed below:
 #     - the region names of Nagasaki, Saga were null.
 #     - Okinawa was in Kyushu region.
+#     - Hyogo was Hyōgo.
 $ ogr2ogr -f GeoJSON -where "adm0_a3 = 'JPN' AND name != ''" states_jp.json ./ne_10m_admin_1_states_provinces/ne_10m_admin_1_states_provinces.shp
 ```
